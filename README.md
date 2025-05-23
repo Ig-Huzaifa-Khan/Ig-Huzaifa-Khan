@@ -2,8 +2,15 @@
 
 # Hi 👋, I'm Hujefa Khan
 
-❤️‍🔥 A Passionate Engineer.<br>
-🌱 I'm currently Studying BTECH CSE in DS
+❤️‍🔥 A Passionate Student from Yenepoya School of Engineering and Technology(Yenepoya Deemed To Be University).<br>
+🌱 I'm currently Learning Web Development and Data Science.
+📚 I'm interested in AI, Machine Learning, and Data Analysis.
+💻 I'm a beginner in the field of Web Development and Data Science. I'm excited to learn and grow in this field.
+💻 I'm looking forward to networking with professionals in the field and collaborating with like minded people.
+💬 I'm excited to share my knowledge and learn from others.
+📚 I'm a lifelong learner and always eager to learn new things.
+💻 I'm excited to contribute to open-source projects and learn from others.
+✨ Fun Fact I am an Youtuber.
 
 ## 🌐 Socials:
 
