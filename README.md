@@ -5,7 +5,7 @@
 ❤️‍🔥 A Passionate Student from Yenepoya School of Engineering and Technology(Yenepoya Deemed To Be University).<br>
 🌱 I am currently Learning Web Development and Data Science, with keen interest in AI, Machine Learning, and Data Analysis.<br>
 💻 I am looking forward to networking with professionals in this field and collaborating with like minded people.<br>
-💬 I am a lifelong learner, always eager to acquire new knowledge, share my insights, and contribute to open-source projects.s.<br>
+💬 I am a lifelong learner, always eager to acquire new knowledge, share my insights, and contribute to open-source projects.<br>
 ✨ Fun Fact: I'm a Youtuber! 🤯.<br>
 
 ## 🌐 Socials:
