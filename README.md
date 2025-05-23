@@ -3,9 +3,9 @@
 # Hi 👋, I'm Hujefa Khan
 
 ❤️‍🔥 A Passionate Student from Yenepoya School of Engineering and Technology(Yenepoya Deemed To Be University).<br>
-🌱 I'm currently Learning Web Development and Data Science, with keen interest in AI, Machine Learning, and Data Analysis.<br>
-💻 I'm looking forward to networking with professionals in this field and collaborating with like minded people.<br>
-💬 I'm a lifelong learner and always eager to learn new things and excited to share my knowledge and contribute to open-source projects and learn from others.<br>
+🌱 I am currently Learning Web Development and Data Science, with keen interest in AI, Machine Learning, and Data Analysis.<br>
+💻 I am looking forward to networking with professionals in this field and collaborating with like minded people.<br>
+💬 I am a lifelong learner, always eager to acquire new knowledge, share my insights, and contribute to open-source projects.s.<br>
 ✨ Fun Fact: I'm a Youtuber! 🤯.<br>
 
 ## 🌐 Socials:
